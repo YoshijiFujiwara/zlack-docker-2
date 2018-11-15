@@ -6,7 +6,7 @@ FROM node:9.11-alpine
 RUN apk --update add shadow &&\
     rm -rf /var/cache/apk/*
 # 環境変数HOMEにappユーザーのホームディレクトリを指定し、
-ENV HOME=/app
+ENV HOME=/home
 
 # ホスト環境のpackage.jsonをコンテナ内にコピーする
 COPY ./src/package.json $HOME/nuxt/
