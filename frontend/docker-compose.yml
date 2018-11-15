@@ -1,0 +1,36 @@
+version: '3'
+services:
+  nuxt:
+    # ./nuxt/Dockerfileをもとにnuxtコンテナを作成する
+    build: ./nuxt
+    # コンテナ起動時のコマンド
+    command: npm run build
+    # 特権モードを有効にしておく(いらないかも)
+    privileged: true
+    # コンテナ外部からport3000でアクセスできるようにする
+    ports:
+    - '3000:3000'
+    volumes:
+    # ホストOSとコンテナ内でNuxt.jsのソースコードを共有できるようする
+    - ./nuxt/src:/home/nuxt
+    # node_modulesはコンテナ内の内容で上書き
+    - /home/nuxt/node_modules
+
+
+# version: '3'
+# services:
+#   nuxt:
+#     # ./nuxt/Dockerfileをもとにnuxtコンテナを作成する
+#     build: ./nuxt
+#     # コンテナ起動時のコマンド
+#     command: npm run dev
+#     # 特権モードを有効にしておく(いらないかも)
+#     privileged: true
+#     # コンテナ外部からport3000でアクセスできるようにする
+#     ports:
+#       - '3000:3000'
+#     volumes:
+#          # ホストOSとコンテナ内でNuxt.jsのソースコードを共有できるようする
+#       - ./nuxt/src:/home/app/nuxt
+#         # node_modulesはコンテナ内の内容で上書き
+#       - /home/app/nuxt/node_modules
