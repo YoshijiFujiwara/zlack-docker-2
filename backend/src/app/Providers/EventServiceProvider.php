@@ -2,6 +2,7 @@
 
 namespace App\Providers;
 
+use App\Events\CreateMessageEvent;
 use Illuminate\Support\Facades\Event;
 use Illuminate\Auth\Events\Registered;
 use Illuminate\Auth\Listeners\SendEmailVerificationNotification;
@@ -18,6 +19,11 @@ class EventServiceProvider extends ServiceProvider
         Registered::class => [
             SendEmailVerificationNotification::class,
         ],
+        'App\Events\CreateMessageEvent' => ['App\Listeners\CreateMessageEventListner'],
+        'App\Events\UpdateMessageEvent' => ['App\Listeners\UpdateMessageEventListner'],
+        'App\Events\DeleteMessageEvent' => ['App\Listeners\DeleteMessageEventListner'],
+
+        'App\Events\StarMessageEvent' => ['App\Listeners\StarMessageEvent'],
     ];
 
     /**
