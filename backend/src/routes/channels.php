@@ -34,7 +34,7 @@ Broadcast::channel('starChannel', function () {
 });
 
 
-// そのユーザーがオンラインかどうかに使う
+//// そのユーザーがオンラインかどうかに使う
 //Broadcast::channel('online', function($user) {
 //    return $user;
 //});

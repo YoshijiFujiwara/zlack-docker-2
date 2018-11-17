@@ -7,7 +7,7 @@ export default ({ app, store, redirect, storategy }) => {
   window.Pusher = require('pusher-js');
 
   window.Echo = new LaravelEcho({
-    // authEndpoint: 'http://zlack_backend_1.test/broadcasting/auth',
+    // authEndpoint: 'http://localhost/broadcasting/auth',
     broadcaster: 'pusher',
     key: '4d4a8e9e20e8237cf659',
     cluster: 'ap1',

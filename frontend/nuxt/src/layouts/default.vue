@@ -211,10 +211,12 @@
       this.myWorkspaces = data;
     },
     mounted() {
-      window.Echo.join('online')
-        .here((users) => {
-          console.log(users);
-        });
+
+
+      // window.Echo.join('online')
+      //   .here((users) => {
+      //     console.log(users);
+      //   });
     },
     methods: {
       moveToChannel(channelId) {

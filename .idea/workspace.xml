@@ -139,134 +139,8 @@
       <change afterPath="$PROJECT_DIR$/backend/src/tests/Unit/ExampleTest.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/src/webpack.mix.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/src/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/assets/style/app.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/components/Logo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/components/VuetifyLogo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/layouts/initial.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/middleware/clearValidationErrors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/middleware/guest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/create_workspace.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/inspire.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/register.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/workspaces/_id/channels/_channelid/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/workspaces/_id/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/workspaces/_id/users/_userid/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/workspaces/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/plugins/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/plugins/laravel_echo-pusher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/plugins/mixins/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/plugins/mixins/validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/plugins/vuetify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/static/v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/store/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/nuxt/src/store/validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Console/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Exceptions/Handler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Middleware/EncryptCookies.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Middleware/TrimStrings.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Middleware/TrustProxies.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Providers/BroadcastServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/artisan" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/artisan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/bootstrap/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/bootstrap/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/bootstrap/cache/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/broadcasting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/cache.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/hashing.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/hashing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/logging.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/logging.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/queue.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/queue.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/session.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/config/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/database/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/database/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/svg/403.svg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/svg/403.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/svg/404.svg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/svg/404.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/svg/500.svg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/svg/500.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/svg/503.svg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/public/svg/503.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/public/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/js/components/ExampleComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/js/components/ExampleComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/lang/en/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/lang/en/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/lang/en/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/lang/en/pagination.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/lang/en/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/lang/en/passwords.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/lang/en/validation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/sass/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/routes/channels.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/channels.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/routes/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/console.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/app/public/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/app/public/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/framework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/framework/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/framework/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/framework/cache/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/framework/cache/data/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/framework/sessions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/framework/testing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/framework/testing/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/framework/views/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/framework/views/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/storage/logs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/storage/logs/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/tests/CreatesApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/tests/CreatesApplication.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/tests/TestCase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/webpack.mix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/assets/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/assets/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/components/AppLogo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/components/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/components/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/layouts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/layouts/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/middleware/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/middleware/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/pages/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/plugins/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/plugins/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/static/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/static/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/store/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/store/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/nuxt/src/plugins/laravel_echo-pusher.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt/src/plugins/laravel_echo-pusher.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -290,27 +164,29 @@
         <counts>
           <entry key="Dockerfile" value="2" />
           <entry key="editorconfig" value="1" />
-          <entry key="env" value="5" />
-          <entry key="js" value="3" />
-          <entry key="json" value="3" />
+          <entry key="env" value="6" />
+          <entry key="js" value="5" />
+          <entry key="json" value="4" />
           <entry key="lock" value="1" />
+          <entry key="log" value="2" />
           <entry key="md" value="1" />
-          <entry key="php" value="17" />
+          <entry key="php" value="24" />
           <entry key="styl" value="1" />
-          <entry key="vue" value="4" />
+          <entry key="vue" value="8" />
           <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key=".env file" value="5" />
+          <entry key=".env file" value="6" />
           <entry key="Dockerfile" value="2" />
-          <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="3" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="5" />
+          <entry key="Log" value="2" />
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="17" />
+          <entry key="PHP" value="24" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Vue.js" value="4" />
+          <entry key="Vue.js" value="8" />
           <entry key="YAML" value="3" />
           <entry key="yarn.lock" value="1" />
         </counts>
@@ -319,10 +195,10 @@
         <counts>
           <entry key="Dockerfile" value="41" />
           <entry key="env" value="102" />
-          <entry key="js" value="22" />
-          <entry key="json" value="43" />
-          <entry key="php" value="105" />
-          <entry key="vue" value="28" />
+          <entry key="js" value="93" />
+          <entry key="json" value="44" />
+          <entry key="php" value="108" />
+          <entry key="vue" value="30" />
           <entry key="yml" value="32" />
         </counts>
       </usages-collector>
@@ -330,10 +206,10 @@
         <counts>
           <entry key=".env file" value="102" />
           <entry key="Dockerfile" value="41" />
-          <entry key="JSON" value="43" />
-          <entry key="JavaScript" value="22" />
-          <entry key="PHP" value="105" />
-          <entry key="Vue.js" value="28" />
+          <entry key="JSON" value="44" />
+          <entry key="JavaScript" value="93" />
+          <entry key="PHP" value="108" />
+          <entry key="Vue.js" value="30" />
           <entry key="YAML" value="32" />
         </counts>
       </usages-collector>
@@ -349,86 +225,89 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/laradock/.editorconfig">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/src/yarn.lock">
+        <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Controllers/AuthController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+            <state relative-caret-position="414">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/backend/src/laravel-echo-server.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/src/config/cors.php">
+        <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/pages/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="-186">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/src/vendor/barryvdh/laravel-cors/src/HandleCors.php">
+        <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/pages/workspaces/_id/channels/_channelid/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+            <state relative-caret-position="459">
+              <caret line="297" column="13" selection-start-line="297" selection-start-column="13" selection-end-line="297" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/src/app/Console/Kernel.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Kernel.php">
+        <entry file="file://$PROJECT_DIR$/backend/src/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            <state relative-caret-position="480">
+              <caret line="32" column="20" selection-start-line="31" selection-end-line="32" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/nuxt.config.js">
+        <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Controllers/MessageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+            <state relative-caret-position="270">
+              <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/laradock/.env">
+        <entry file="file://$PROJECT_DIR$/backend/src/resources/js/bootstrap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2940">
-              <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/laradock/docker-compose.yml">
+        <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/plugins/laravel_echo-pusher.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
-              <caret line="525" column="38" selection-start-line="525" selection-start-column="38" selection-end-line="525" selection-end-column="38" />
+            <state relative-caret-position="150">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/layouts/default.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="219" column="6" selection-start-line="219" selection-start-column="6" selection-end-line="219" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Resources/UserResource.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -439,19 +318,19 @@
       <find>mysql</find>
       <find>PMA_USER</find>
       <find>phpmy</find>
+      <find>mounted</find>
+      <find>4d4a8e9e20e8237cf659</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/backend/laradock/.env" />
         <option value="$PROJECT_DIR$/backend/src/routes/web.php" />
-        <option value="$PROJECT_DIR$/backend/src/.env" />
         <option value="$PROJECT_DIR$/frontend/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/frontend/nuxt/src/layouts/default.vue" />
         <option value="$PROJECT_DIR$/frontend/nuxt/Dockerfile" />
         <option value="$PROJECT_DIR$/frontend/nuxt/src/pages/index.vue" />
         <option value="$PROJECT_DIR$/frontend/nuxt/src/layouts/initial.vue" />
@@ -463,6 +342,11 @@
         <option value="$PROJECT_DIR$/backend/src/config/auth.php" />
         <option value="$PROJECT_DIR$/backend/src/routes/api.php" />
         <option value="$PROJECT_DIR$/frontend/nuxt/src/nuxt.config.js" />
+        <option value="$PROJECT_DIR$/backend/src/routes/channels.php" />
+        <option value="$PROJECT_DIR$/frontend/nuxt/src/plugins/laravel_echo-pusher.js" />
+        <option value="$PROJECT_DIR$/frontend/nuxt/src/layouts/default.vue" />
+        <option value="$PROJECT_DIR$/backend/src/laravel-echo-server.json" />
+        <option value="$PROJECT_DIR$/backend/src/.env" />
       </list>
     </option>
   </component>
@@ -487,11 +371,11 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="651" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="667" />
     <option name="y" value="32" />
-    <option name="width" value="1269" />
-    <option name="height" value="1048" />
+    <option name="width" value="950" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -544,6 +428,28 @@
             <path>
               <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
               <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -559,6 +465,64 @@
               <item name="nuxt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="workspaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="workspaces" type="462c0819:PsiDirectoryNode" />
+              <item name="_id" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="workspaces" type="462c0819:PsiDirectoryNode" />
+              <item name="_id" type="462c0819:PsiDirectoryNode" />
+              <item name="channels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-zlack-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-zlack-2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="workspaces" type="462c0819:PsiDirectoryNode" />
+              <item name="_id" type="462c0819:PsiDirectoryNode" />
+              <item name="channels" type="462c0819:PsiDirectoryNode" />
+              <item name="_channelid" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -567,13 +531,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="kernel.php&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/app/Console/Kernel.php&#10;handlecors&#9;null&#9;null&#10;api.php&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/routes/api.php&#10;auth&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/config/auth.php&#10;jwt&#9;null&#9;null&#10;.ENV&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/.env&#10;&gt;env&#9;null&#9;null&#10;docker-compose&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/laradock/docker-compose.yml&#10;.env&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/.env&#10;compose.json&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/composer.json&#10;web.php&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/routes/web.php" />
+    <property name="SearchEverywhereHistoryKey" value="messagecon&#9;null&#9;null&#10;bootstrap.js&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/resources/js/bootstrap.js&#10;index&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/frontend/nuxt/src/pages/index.vue&#10;default&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/frontend/nuxt/src/layouts/default.vue&#10;laravelec&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/frontend/nuxt/src/plugins/laravel_echo-pusher.js&#10;laravelecho&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/laravel-echo-server.json&#10;usere&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/app/Http/Resources/UserResource.php&#10;userrew&#9;null&#9;null&#10;userre&#9;null&#9;null&#10;laravello&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/storage/logs/laravel-2018-11-10.log&#10;authcon&#9;null&#9;null&#10;api.php&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/routes/api.php&#10;kernel.php&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/app/Console/Kernel.php&#10;handlecors&#9;null&#9;null&#10;auth&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/config/auth.php&#10;jwt&#9;null&#9;null&#10;.ENV&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/.env&#10;&gt;env&#9;null&#9;null&#10;docker-compose&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/laradock/docker-compose.yml&#10;.env&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/.env&#10;compose.json&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/composer.json&#10;web.php&#9;FILE&#9;file:///home/yoshiji/webdev/laravels/projects/nuxt-zlack-2/backend/src/routes/web.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../nuxt-zlack-1/reference" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -610,18 +574,18 @@
       <workItem from="1542277533956" duration="6394000" />
       <workItem from="1542402634967" duration="990000" />
       <workItem from="1542408294728" duration="1085000" />
-      <workItem from="1542409573703" duration="2499000" />
+      <workItem from="1542409573703" duration="5316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17488000" />
+    <option name="totallyTimeSpent" value="20305000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="32" width="960" height="1048" extended-state="4" />
+    <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35729846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2113951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -665,13 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/layouts/default.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/layouts/initial.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -700,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/pages/login.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -722,9 +672,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/src/routes/console.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/src/routes/channels.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Controllers/Controller.php">
@@ -789,20 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/src/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/src/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend/laradock/.editorconfig">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -824,7 +757,7 @@
     <entry file="file://$PROJECT_DIR$/backend/src/config/cors.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -847,8 +780,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/nuxt.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        <state relative-caret-position="360">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/routes/channels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="103" selection-start-line="27" selection-start-column="103" selection-end-line="27" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/vendor/symfony/http-kernel/Tests/HttpCache/HttpCacheTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="979" column="20" selection-start-line="979" selection-start-column="20" selection-end-line="979" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Requests/UserRegisterRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/storage/logs/laravel-2018-11-17.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="334">
+          <caret line="162" column="112" selection-start-line="162" selection-start-column="112" selection-end-line="162" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/storage/logs/laravel-2018-11-10.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Resources/UserResource.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/layouts/default.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="219" column="6" selection-start-line="219" selection-start-column="6" selection-end-line="219" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/plugins/laravel_echo-pusher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/laravel-echo-server.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-186">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/nuxt/src/pages/workspaces/_id/channels/_channelid/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="297" column="13" selection-start-line="297" selection-start-column="13" selection-end-line="297" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/resources/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="20" selection-start-line="31" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app/Http/Controllers/MessageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
         </state>
       </provider>
     </entry>
