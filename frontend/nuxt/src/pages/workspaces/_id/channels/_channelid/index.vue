@@ -229,6 +229,7 @@
     },
     methods: {
       async createMessage() {
+        console.log(`/workspaces/${this.$route.params.id}/channels/${this.$route.params.channelid}/messages`)
         await this.$axios.$post(`/workspaces/${this.$route.params.id}/channels/${this.$route.params.channelid}/messages`, {body: this.form.messageBody});
         this.form.messageBody = '';
       },

@@ -31,14 +31,14 @@ class StarController extends Controller
                 'user_id' => $request->user()->id,
                 'message_id' => $message->id,
             ]);
-            broadcast(new StarMessageEvent($added = false))->toOthers();
+//            broadcast(new StarMessageEvent($added = false))->toOthers();
         } else {
             // スターを付ける
             $message->starUsers()->attach([
                 'user_id' => $request->user()->id,
                 'message_id' => $message->id,
             ]);
-            broadcast(new StarMessageEvent($added = true))->toOthers();
+//            broadcast(new StarMessageEvent($added = true))->toOthers();
         }
     }
 }

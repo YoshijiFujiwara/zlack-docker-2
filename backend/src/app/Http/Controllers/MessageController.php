@@ -64,7 +64,7 @@ class MessageController extends Controller
         $newMessageResource = new MessageResource($message);
 
         // リアルタイム通知用のイベント作成
-        broadcast(new CreateMessageEvent($newMessageResource))->toOthers();
+//        broadcast(new CreateMessageEvent($newMessageResource))->toOthers();
 
         return $newMessageResource;
     }
@@ -81,7 +81,7 @@ class MessageController extends Controller
         $updatedMessageResource = new MessageResource($message);
 
         // リアルタイム通知用のイベント作成
-        broadcast(new UpdateMessageEvent($updatedMessageResource))->toOthers();
+//        broadcast(new UpdateMessageEvent($updatedMessageResource))->toOthers();
 
         return $updatedMessageResource;
     }

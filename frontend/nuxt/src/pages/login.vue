@@ -7,6 +7,10 @@
             <v-card>
                 <v-card-title primary-title>
                     <h2 class="display-1 mb-3 font-weight-bold">ログイン</h2>
+                    <br>
+                    <h3>テストユーザーでログインできます！</h3>
+                    <h3>メールアドレス:「akai@akai.com」</h3>
+                    <h3>パスワード:「secret」</h3>
                     <v-flex xs12>
                         <v-text-field
                             v-model.trim="form.email"
